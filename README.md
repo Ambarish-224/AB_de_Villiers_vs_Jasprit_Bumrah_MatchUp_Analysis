@@ -3,7 +3,7 @@
 I have Done a Cricket Analytics with the help of IPL Dataset.
 
 In this Project I Compared Matchup Analytics With
-Ab De Villiers vs Jusprit Bumrah and I also Done
+Ab De Villiers vs Jasprit Bumrah and I also Done
 Visualisation with the help of Scatter Plot.
 
 
